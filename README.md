@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **SataQiu/SataQiu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 🔭 Live in Beijing China
+- 🌱 Graduated from Beihang University
+- 👯 Kubernetes Community Reviewer & Approver
+- 💬 Participate in [ServiceMesher Community](https://www.servicemesher.com/)
+- 📫 How to reach me: 1527062125@qq.com
+
+![](https://github-readme-stats.vercel.app/api?username=SataQiu&count_private=true)
