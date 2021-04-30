@@ -16,8 +16,9 @@ Here are some ideas to get you started:
 - 🔭 Live in Beijing China
 - 🌱 Graduated from Beihang University
 - 👯 [Kubernetes](https://github.com/kubernetes/kubernetes) Contributor/Reviewer/Approver
+- ✨ One of the [Kubeadm](https://github.com/kubernetes/kubeadm) Maintainers
 - 😄 One of the [Istio Chinese Docs](https://istio.io/latest/zh/) Maintainers
 - 💬 Member of the [ServiceMesher](https://www.servicemesher.com/) Committee
-- 📫 How to reach me: 1527062125@qq.com
+- 📫 How to reach me: 1527062125@qq.com, shidaqiu2018@gmail.com
 
 ![](https://github-readme-stats.vercel.app/api?username=SataQiu&count_private=true)
