@@ -17,7 +17,8 @@ Here are some ideas to get you started:
 - 🌱 Graduated from Beihang University
 - 👯 [Kubernetes](https://github.com/kubernetes/kubernetes) Contributor/Reviewer/Approver
 - ✨ One of the [Kubeadm](https://github.com/kubernetes/kubeadm) Maintainers
-- 😄 One of the [Istio Chinese Docs](https://istio.io/latest/zh/) Maintainers
+- ⚡ One of the [OpenYurt](https://github.com/openyurtio/openyurt) Maintainers
+- 😄 One of the [Kubernetes Chinse Docs](https://kubernetes.io/zh/) and [Istio Chinese Docs](https://istio.io/latest/zh/) Maintainers
 - 💬 Member of the [ServiceMesher](https://www.servicemesher.com/) Committee
 - 📫 How to reach me: 1527062125@qq.com, shidaqiu2018@gmail.com
 
